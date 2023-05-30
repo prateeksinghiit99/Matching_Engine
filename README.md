@@ -196,6 +196,7 @@ B 65 7
 Output - Price not in range [Price should be between 1.0 - 10.0]
 
 ### 4.2 Testing with Automatic Clients
+[Demo-2](https://youtu.be/lmYpITly5_s)
 1. Run Server first
 2. Run autoClient
 3. To start automatic client to generate order: Type **Start** [Refer](#3-file-usage--execution-guide)
@@ -205,6 +206,8 @@ Output - Price not in range [Price should be between 1.0 - 10.0]
 8. Try to kill autoClient process in between: Type **Ctrl + C**
 
 ### 4.3 Testing with Automatic HFT Clients
+[Demo-3](https://youtu.be/tFnA4EH9W0c)
+
 Explore the testing methodologies specific to high-frequency trading (HFT) clients and analyze the engine's performance under such conditions.
 1. Run Server first.
 2. Run autoHFTClient
@@ -216,6 +219,10 @@ Explore the testing methodologies specific to high-frequency trading (HFT) clien
 
 ### 4.4 Testing with Multiple HFT Clients (100-100,000)
 Get insights into the testing approach for multiple HFT clients, ranging from 100 to 100,000 clients. Evaluate the engine's scalability and efficiency in large-scale scenarios.
+
+[Demo-4](https://youtu.be/iYb46IM0LsM)
+
+[Demo-5](https://youtu.be/a2xbnraJTUE)
 
 **Test -1**
 1. Run server.
@@ -240,3 +247,13 @@ Serverplus can effortlessly handle 10000 and up to a good extent with 100,000 cl
 Watch the provided demo videos to visualize the Heading Matching Engine in action. Gain a visual understanding of how the engine performs and interacts with different inputs.
 
 [Demo-1](https://youtu.be/IkM7BKW0rt0)
+
+[Demo-2](https://youtu.be/lmYpITly5_s)
+
+[Demo-3](https://youtu.be/tFnA4EH9W0c)
+
+[Demo-4](https://youtu.be/iYb46IM0LsM)
+
+[Demo-5](https://youtu.be/a2xbnraJTUE)
+
+[Playlist](https://www.youtube.com/playlist?list=PLyPh9waDcq_kVCDcwj8jxg3VijS9ai2Cg)
